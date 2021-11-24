@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zaman1753
-- 👀 I’m interested in Web Site Programming
-- 🌱 I’m currently learning Programming
+- 👋 Hi, I’m Zaman
+- 👀 I’m interested in Web Designer (HTML, CSS and Java Script)
+- 🌱 I’m currently learning Java, C#, Python
 
 
 <!---
