@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Zaman
+- 👋 Hi, I’m Zamx
+-n
 - 👀 I’m interested in Web Designer (HTML, CSS and Java Script)
 - 🌱 I’m currently learning Java, C#, Python
 
