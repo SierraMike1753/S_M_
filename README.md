@@ -1,3 +1,2 @@
-- 👋 Hi, I’m S_M
-- 👀 I’m learning HTML, CSS and Java and Java Script
-- 🌱 I’m currently learning Java and HTML
+--------------------
+- Learning Java, HTML, CSS, JavaScript And QA
